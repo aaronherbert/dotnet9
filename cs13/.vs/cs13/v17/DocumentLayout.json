@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38622239-3A80-4582-A7E1-BE37D48175A2}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C417FB-E5AB-4F95-BA1B-44E79BB20DD4}|..\\cs13.test\\cs13.test.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\cs13.test\\morepartialmemberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C417FB-E5AB-4F95-BA1B-44E79BB20DD4}|..\\cs13.test\\cs13.test.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\cs13.test\\refstructinterfacestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38622239-3A80-4582-A7E1-BE37D48175A2}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370A9CC6-30A8-4A93-AE9C-750259E273A3}|cs13.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\cs13\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370A9CC6-30A8-4A93-AE9C-750259E273A3}|cs13.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "..\\WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:32:05.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefStructInterfacesTests.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13.test\\RefStructInterfacesTests.cs",
+              "RelativeDocumentMoniker": "..\\cs13.test\\RefStructInterfacesTests.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13.test\\RefStructInterfacesTests.cs",
+              "RelativeToolTip": "..\\cs13.test\\RefStructInterfacesTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:41:34.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MorePartialMembersTests.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13.test\\MorePartialMembersTests.cs",
+              "RelativeDocumentMoniker": "..\\cs13.test\\MorePartialMembersTests.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13.test\\MorePartialMembersTests.cs",
+              "RelativeToolTip": "..\\cs13.test\\MorePartialMembersTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:38:34.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:28:18.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:24:37.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
