@@ -1,0 +1,17 @@
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.exe
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.deps.json
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.runtimeconfig.json
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.dll
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\bin\Debug\net9.0-windows\WinFormsApp1.pdb
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.Form1.resources
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.sourcelink.json
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.dll
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\refint\WinFormsApp1.dll
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\git\aarongithub\repos\dotnet9\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll

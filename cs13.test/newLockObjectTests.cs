@@ -1,6 +1,6 @@
 ﻿namespace cs13.test
 {
-    public class MorePartialMembersTests
+    public class newLockObjectTests
     {
         [Fact]
         public void Test1()

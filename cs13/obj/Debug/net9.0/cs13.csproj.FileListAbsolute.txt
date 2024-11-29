@@ -1,0 +1,12 @@
+C:\git\aarongithub\repos\dotnet9\cs13\bin\Debug\net9.0\cs13.deps.json
+C:\git\aarongithub\repos\dotnet9\cs13\bin\Debug\net9.0\cs13.dll
+C:\git\aarongithub\repos\dotnet9\cs13\bin\Debug\net9.0\cs13.pdb
+C:\git\aarongithub\repos\dotnet9\cs13\obj\Debug\net9.0\cs13.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\aarongithub\repos\dotnet9\cs13\obj\Debug\net9.0\cs13.AssemblyInfoInputs.cache
+C:\git\aarongithub\repos\dotnet9\cs13\obj\Debug\net9.0\cs13.AssemblyInfo.cs
+C:\git\aarongithub\repos\dotnet9\cs13\obj\Debug\net9.0\cs13.csproj.CoreCompileInputs.cache
+C:\git\aarongithub\repos\dotnet9\cs13\obj\Debug\net9.0\cs13.sourcelink.json
+C:\git\aarongithub\repos\dotnet9\cs13\obj\Debug\net9.0\cs13.dll
+C:\git\aarongithub\repos\dotnet9\cs13\obj\Debug\net9.0\refint\cs13.dll
+C:\git\aarongithub\repos\dotnet9\cs13\obj\Debug\net9.0\cs13.pdb
+C:\git\aarongithub\repos\dotnet9\cs13\obj\Debug\net9.0\ref\cs13.dll

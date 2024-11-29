@@ -1,6 +1,7 @@
 ﻿namespace cs13.test
 {
-    public class MorePartialMembersTests
+    public class MethodGroupNaturalTypeTests
+
     {
         [Fact]
         public void Test1()

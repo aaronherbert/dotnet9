@@ -1,0 +1,15 @@
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\bin\Debug\net9.0\FeatureSwitching.exe
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\bin\Debug\net9.0\FeatureSwitching.deps.json
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\bin\Debug\net9.0\FeatureSwitching.runtimeconfig.json
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\bin\Debug\net9.0\FeatureSwitching.dll
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\bin\Debug\net9.0\FeatureSwitching.pdb
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\FeatureSwitching.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\FeatureSwitching.AssemblyInfoInputs.cache
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\FeatureSwitching.AssemblyInfo.cs
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\FeatureSwitching.csproj.CoreCompileInputs.cache
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\FeatureSwitching.sourcelink.json
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\FeatureSwitching.dll
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\refint\FeatureSwitching.dll
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\FeatureSwitching.pdb
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\FeatureSwitching.genruntimeconfig.cache
+C:\git\aarongithub\repos\dotnet9\FeatureSwitching\obj\Debug\net9.0\ref\FeatureSwitching.dll
