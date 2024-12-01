@@ -1,0 +1,6 @@
+@Presso.api8_HostAddress = http://localhost:5201
+
+GET {{Presso.api8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
