@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "36kHZF9xzr4=",
+  "dgSpecHash": "MjNJLhSSPlA=",
   "success": true,
-  "projectFilePath": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\Presso.csproj",
+  "projectFilePath": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\WhatsNew.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ah10917\\.nuget\\packages\\benchmarkdotnet\\0.14.0\\benchmarkdotnet.0.14.0.nupkg.sha512",
     "C:\\Users\\ah10917\\.nuget\\packages\\benchmarkdotnet.annotations\\0.14.0\\benchmarkdotnet.annotations.0.14.0.nupkg.sha512",

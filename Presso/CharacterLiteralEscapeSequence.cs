@@ -4,12 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Presso
+namespace WhatsNew
 {
     public class CharacterLiteralEscapeSequence
     {
         public CharacterLiteralEscapeSequence()
         {
+            char new_line = '\n';
+            char backspace = '\b';
+            char carriage_return = '\r';
+            char horizontal_tab = '\t';
+
+
             //Character literal escape sequence
             char escape_char = '\e';
 

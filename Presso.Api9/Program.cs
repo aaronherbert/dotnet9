@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Options;
 using Scalar.AspNetCore;
 
-namespace Presso.Api9
+namespace WhatsNew.Api9
 {
     public class Program
     {
@@ -13,19 +13,18 @@ namespace Presso.Api9
             // Add services to the container.
 
             builder.Services.AddControllers();
-            // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
+            // https://localhost:7189/openapi/v1.json
             builder.Services.AddOpenApi();
 
             var app = builder.Build();
-            
-            app.MapOpenApi();
+
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
                 app.MapScalarApiReference(); //https://localhost:7189/scalar/v1
-                
+
             }
 
             //  app.UseHttpsRedirection();

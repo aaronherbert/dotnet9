@@ -1,4 +1,4 @@
-namespace Presso.Api9
+namespace WhatsNew.Api9
 {
     public class WeatherForecast
     {

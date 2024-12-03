@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Presso.Api9.Controllers
+namespace WhatsNew.Api9.Controllers
 {
     [ApiController]
     [Route("[controller]")]

@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\characterliteralescapesequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\overloadresolutionpriorityattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\featureswitching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\refstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6239FB6-4F0A-4722-AD05-7297954DDAB8}|..\\Presso.Api9\\Presso.Api9.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso.api9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\partialproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\paramscollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\newlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\fieldkeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\allowrefstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\implicitindexaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6239FB6-4F0A-4722-AD05-7297954DDAB8}|..\\Presso.Api9\\Presso.Api9.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso.api9\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\refstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\refinasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -21,10 +45,30 @@
       "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\newlockobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\partialproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{883D8BFF-9C53-4C83-BEEC-A2290CB48806}|Jit9\\Jit9.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\cs13\\jit9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883D8BFF-9C53-4C83-BEEC-A2290CB48806}|Jit9\\Jit9.csproj|solutionrelative:jit9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\Presso.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\characterliteralescapesequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}|..\\Presso\\WhatsNew.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso\\whatsnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883D8BFF-9C53-4C83-BEEC-A2290CB48806}|Jit9\\Jit9.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\cs13\\jit9\\jit9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{883D8BFF-9C53-4C83-BEEC-A2290CB48806}|Jit9\\Jit9.csproj|solutionrelative:jit9\\jit9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6239FB6-4F0A-4722-AD05-7297954DDAB8}|..\\Presso.Api9\\WhatsNew.Api9.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso.api9\\whatsnew.api9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C941D82-9C59-4748-82CD-52B942F74B52}|..\\Presso.api8\\WhatsNew.api8.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\presso.api8\\whatsnew.api8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38622239-3A80-4582-A7E1-BE37D48175A2}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38622239-3A80-4582-A7E1-BE37D48175A2}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38622239-3A80-4582-A7E1-BE37D48175A2}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\git\\aarongithub\\repos\\dotnet9\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,110 +78,291 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OverloadResolutionPriorityAttribute.cs",
-              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\OverloadResolutionPriorityAttribute.cs",
-              "RelativeDocumentMoniker": "..\\Presso\\OverloadResolutionPriorityAttribute.cs",
-              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\OverloadResolutionPriorityAttribute.cs",
-              "RelativeToolTip": "..\\Presso\\OverloadResolutionPriorityAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "WhatsNew.Api9.csproj",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso.Api9\\WhatsNew.Api9.csproj",
+              "RelativeDocumentMoniker": "..\\Presso.Api9\\WhatsNew.Api9.csproj",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso.Api9\\WhatsNew.Api9.csproj",
+              "RelativeToolTip": "..\\Presso.Api9\\WhatsNew.Api9.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T23:22:37.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WhatsNew.api8.csproj",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso.api8\\WhatsNew.api8.csproj",
+              "RelativeDocumentMoniker": "..\\Presso.api8\\WhatsNew.api8.csproj",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso.api8\\WhatsNew.api8.csproj",
+              "RelativeToolTip": "..\\Presso.api8\\WhatsNew.api8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T23:22:28.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Jit9",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13\\Jit9\\Jit9.csproj",
+              "RelativeDocumentMoniker": "Jit9\\Jit9.csproj",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13\\Jit9\\Jit9.csproj",
+              "RelativeToolTip": "Jit9\\Jit9.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T23:21:58.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "..\\WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:32:04.654Z",
+              "WhenOpened": "2024-12-02T14:36:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:35:37.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso.Api9\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\Presso.Api9\\WeatherForecast.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso.Api9\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\Presso.Api9\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:35:30.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "..\\WinFormsApp1\\WinFormsApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T14:35:16.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RefStruct.cs",
-              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\RefStruct.cs",
-              "RelativeDocumentMoniker": "..\\Presso\\RefStruct.cs",
-              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\RefStruct.cs",
-              "RelativeToolTip": "..\\Presso\\RefStruct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:29:22.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Presso\\Program.cs",
-              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\Program.cs",
-              "RelativeToolTip": "..\\Presso\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso.Api9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Presso.Api9\\Program.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso.Api9\\Program.cs",
+              "RelativeToolTip": "..\\Presso.Api9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:23:09.911Z",
+              "WhenOpened": "2024-12-02T14:30:41.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "RefInAsync.cs",
               "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\RefInAsync.cs",
               "RelativeDocumentMoniker": "..\\Presso\\RefInAsync.cs",
               "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\RefInAsync.cs",
               "RelativeToolTip": "..\\Presso\\RefInAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:21:14.577Z",
+              "WhenOpened": "2024-12-02T14:27:53.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "NewLockObject.cs",
               "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\NewLockObject.cs",
               "RelativeDocumentMoniker": "..\\Presso\\NewLockObject.cs",
               "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\NewLockObject.cs",
               "RelativeToolTip": "..\\Presso\\NewLockObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:18:03.643Z",
+              "WhenOpened": "2024-12-02T14:14:44.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewLinq.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\NewLinq.cs",
+              "RelativeDocumentMoniker": "..\\Presso\\NewLinq.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\NewLinq.cs",
+              "RelativeToolTip": "..\\Presso\\NewLinq.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:02:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImplicitIndexAccess.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\ImplicitIndexAccess.cs",
+              "RelativeDocumentMoniker": "..\\Presso\\ImplicitIndexAccess.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\ImplicitIndexAccess.cs",
+              "RelativeToolTip": "..\\Presso\\ImplicitIndexAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:01:23.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PartialProperties.cs",
-              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\PartialProperties.cs",
-              "RelativeDocumentMoniker": "..\\Presso\\PartialProperties.cs",
-              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\PartialProperties.cs",
-              "RelativeToolTip": "..\\Presso\\PartialProperties.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBIAAAAOAAAAAAAAAA==",
+              "Title": "FieldKeyword.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\FieldKeyword.cs",
+              "RelativeDocumentMoniker": "..\\Presso\\FieldKeyword.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\FieldKeyword.cs",
+              "RelativeToolTip": "..\\Presso\\FieldKeyword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:05:50.576Z",
+              "WhenOpened": "2024-12-02T13:58:45.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AllowRefStruct.cs",
-              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\AllowRefStruct.cs",
-              "RelativeDocumentMoniker": "..\\Presso\\AllowRefStruct.cs",
-              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\AllowRefStruct.cs",
-              "RelativeToolTip": "..\\Presso\\AllowRefStruct.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAvwCcAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FeatureSwitching.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\FeatureSwitching.cs",
+              "RelativeDocumentMoniker": "..\\Presso\\FeatureSwitching.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\FeatureSwitching.cs",
+              "RelativeToolTip": "..\\Presso\\FeatureSwitching.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:52:30.318Z",
+              "WhenOpened": "2024-12-02T13:44:02.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
+              "Title": "WhatsNew.csproj",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\WhatsNew.csproj",
+              "RelativeDocumentMoniker": "..\\Presso\\WhatsNew.csproj",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\WhatsNew.csproj",
+              "RelativeToolTip": "..\\Presso\\WhatsNew.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T13:40:54.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CharacterLiteralEscapeSequence.cs",
               "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\CharacterLiteralEscapeSequence.cs",
               "RelativeDocumentMoniker": "..\\Presso\\CharacterLiteralEscapeSequence.cs",
               "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\CharacterLiteralEscapeSequence.cs",
               "RelativeToolTip": "..\\Presso\\CharacterLiteralEscapeSequence.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:52:21.106Z",
+              "WhenOpened": "2024-12-02T13:36:50.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllowRefStruct.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\AllowRefStruct.cs",
+              "RelativeDocumentMoniker": "..\\Presso\\AllowRefStruct.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\AllowRefStruct.cs",
+              "RelativeToolTip": "..\\Presso\\AllowRefStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:42:29.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartialProperties.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\PartialProperties.cs",
+              "RelativeDocumentMoniker": "..\\Presso\\PartialProperties.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\PartialProperties.cs",
+              "RelativeToolTip": "..\\Presso\\PartialProperties.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:42:29.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Presso\\Program.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\Program.cs",
+              "RelativeToolTip": "..\\Presso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:42:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RefStruct.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\RefStruct.cs",
+              "RelativeDocumentMoniker": "..\\Presso\\RefStruct.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\RefStruct.cs",
+              "RelativeToolTip": "..\\Presso\\RefStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:42:29.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParamsCollections.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\ParamsCollections.cs",
+              "RelativeDocumentMoniker": "..\\Presso\\ParamsCollections.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\ParamsCollections.cs",
+              "RelativeToolTip": "..\\Presso\\ParamsCollections.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:42:12.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13\\Jit9\\Program.cs",
+              "RelativeDocumentMoniker": "Jit9\\Program.cs",
+              "ToolTip": "C:\\git\\aarongithub\\repos\\dotnet9\\cs13\\Jit9\\Program.cs",
+              "RelativeToolTip": "Jit9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:54:38.516Z",
               "EditorCaption": ""
             }
           ]

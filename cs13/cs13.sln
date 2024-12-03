@@ -5,11 +5,15 @@ VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "..\WinFormsApp1\WinFormsApp1.csproj", "{38622239-3A80-4582-A7E1-BE37D48175A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presso", "..\Presso\Presso.csproj", "{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew", "..\Presso\WhatsNew.csproj", "{F5A854E5-9A6D-4DF1-ADD3-D750363AD53E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presso.api8", "..\Presso.api8\Presso.api8.csproj", "{6C941D82-9C59-4748-82CD-52B942F74B52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.api8", "..\Presso.api8\WhatsNew.api8.csproj", "{6C941D82-9C59-4748-82CD-52B942F74B52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presso.Api9", "..\Presso.Api9\Presso.Api9.csproj", "{E6239FB6-4F0A-4722-AD05-7297954DDAB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNew.Api9", "..\Presso.Api9\WhatsNew.Api9.csproj", "{E6239FB6-4F0A-4722-AD05-7297954DDAB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jit8", "jit8\jit8.csproj", "{78716CE8-1664-454D-B6D6-C50B9D2CA6E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jit9", "Jit9\Jit9.csproj", "{883D8BFF-9C53-4C83-BEEC-A2290CB48806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{E6239FB6-4F0A-4722-AD05-7297954DDAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6239FB6-4F0A-4722-AD05-7297954DDAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6239FB6-4F0A-4722-AD05-7297954DDAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78716CE8-1664-454D-B6D6-C50B9D2CA6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78716CE8-1664-454D-B6D6-C50B9D2CA6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78716CE8-1664-454D-B6D6-C50B9D2CA6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78716CE8-1664-454D-B6D6-C50B9D2CA6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883D8BFF-9C53-4C83-BEEC-A2290CB48806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883D8BFF-9C53-4C83-BEEC-A2290CB48806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883D8BFF-9C53-4C83-BEEC-A2290CB48806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883D8BFF-9C53-4C83-BEEC-A2290CB48806}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

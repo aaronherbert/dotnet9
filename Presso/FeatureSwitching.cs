@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Presso
+namespace WhatsNew
 {
     public class FeatureSwitching
     {
         public FeatureSwitching()
         {
-            if (FeatureSwitch.IsFeatureEnabled)
+            if (!FeatureSwitch.IsFeatureEnabled)
             {
                 Console.WriteLine("Hello, World!");
             }
@@ -20,8 +20,8 @@ namespace Presso
 
     public class FeatureSwitch
     {
-        [FeatureSwitchDefinition("myFeature")]
-        internal static bool IsFeatureEnabled => AppContext.TryGetSwitch("myFeature", out var doTheThing) || false;
+        [FeatureSwitchDefinition("IsFeatureEnabled")]
+        internal static bool IsFeatureEnabled => !AppContext.TryGetSwitch("IsFeatureEnabled", out var value) || false;
 
 
 

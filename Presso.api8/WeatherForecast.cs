@@ -1,4 +1,4 @@
-namespace Presso.api8
+namespace WhatsNew.api8
 {
     public class WeatherForecast
     {

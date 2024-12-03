@@ -5,18 +5,18 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Diagnostics.Tracing.Parsers.MicrosoftWindowsTCPIP;
 
-namespace Presso
+namespace WhatsNew
 {
-    public class PartialProperties
+    public partial class PartialProperties
     {
         public PartialProperties()
         {
             //https://www.youtube.com/watch?v=wRMUvjUVMlc&t=27s
-            //idea validation library
+
             var likesCounter = new LikeCounter();
             likesCounter.Likes = 10;
             likesCounter.Test = "Hello";
-            //likesCounter.Test = "";
+            likesCounter.Test = "";
             Console.WriteLine(likesCounter.Likes);
         }
 
@@ -24,6 +24,7 @@ namespace Presso
 
     public partial class LikeCounter
     {
+
         public partial int Likes { get; set; }
         public partial string Test { get; set; }
     }

@@ -11,5 +11,17 @@ namespace WinFormsApp1
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var x = new OpenFileDialog();
+            x.ShowDialog();
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ASd");
+        }
     }
 }

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Presso.api8.Controllers
+namespace WhatsNew.api8.Controllers
 {
     [ApiController]
     [Route("[controller]")]

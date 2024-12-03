@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Presso
+namespace WhatsNew
 {
     internal class ImplicitIndexAccess
     {
         public ImplicitIndexAccess()
         {
+            //https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#index-from-end-operator-
             var greeter = new Greeter { Message = { [^1] = '!' } };
             Console.WriteLine(greeter);
 

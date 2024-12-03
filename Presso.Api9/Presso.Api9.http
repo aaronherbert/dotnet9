@@ -1,6 +1,6 @@
-@Presso.Api9_HostAddress = http://localhost:5285
+@WhatsNew.Api9_HostAddress = http://localhost:5285
 
-GET {{Presso.Api9_HostAddress}}/weatherforecast/
+GET {{WhatsNew.Api9_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Presso
+namespace WhatsNew
 {
     public class NewLockObject
     {
@@ -24,6 +24,7 @@ namespace Presso
             using (_lockObj.EnterScope())
             {
                 sharedResource++;
+
             }
         }
     }

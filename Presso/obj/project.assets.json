@@ -1828,9 +1828,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\Presso.csproj",
-      "projectName": "Presso",
-      "projectPath": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\Presso.csproj",
+      "projectUniqueName": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\WhatsNew.csproj",
+      "projectName": "WhatsNew",
+      "projectPath": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\WhatsNew.csproj",
       "packagesPath": "C:\\Users\\ah10917\\.nuget\\packages\\",
       "outputPath": "C:\\git\\aarongithub\\repos\\dotnet9\\Presso\\obj\\",
       "projectStyle": "PackageReference",

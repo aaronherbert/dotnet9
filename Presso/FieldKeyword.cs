@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Presso
+namespace WhatsNew
 {
     public class FieldKeyword
     {
@@ -33,11 +33,12 @@ namespace Presso
 
         class OldPost
         {
-            private string title;
+            public string blah { get; set; }
+            private string _title;
             public string Title
             {
-                get => title;
-                set => title = !String.IsNullOrEmpty(value) ? value : throw new ArgumentException(nameof(value), "Must not be empty.");
+                get => _title;
+                set => _title = !String.IsNullOrEmpty(value) ? value : throw new ArgumentException(nameof(value), "Must not be empty.");
             }
         }
     }

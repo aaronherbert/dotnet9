@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Presso.Api9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+486f2775ba8be7701c41b12b54280af718e4cf0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a884e0ee8fdfe09e0bf5d8e0f62d8dc9e7ecd7c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Presso.Api9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Presso.Api9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

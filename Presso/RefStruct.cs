@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Presso
+namespace WhatsNew
 {
     public class RefStruct
     {/*C# 13 allows for ref struct to implement interfaces.
@@ -20,8 +20,11 @@ However, you cannot convert the ref struct type to an interface (line 3 in the e
         }
 
     }
+
     interface IFoo
-    { }
+    {
+
+    }
 
     ref struct Foo : IFoo
     { }

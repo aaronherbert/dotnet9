@@ -2,13 +2,19 @@
 using BenchmarkDotNet.Attributes;
 using Iced.Intel;
 
-namespace Presso
+namespace WhatsNew
 {
     public class ParamsCollections
     {
+        /*
+         * Cleaner code. Significantly reduces the number of calls to .ToArray(), .ToList().
+Performance. Calls like .ToArray(), .ToList()already add extra resource overhead on their own. 
+        Also, it now supports passing Span<> and IEnumerable<>, leveraging more efficient memory usage and lazy execution. 
+        Overall, this provides greater flexibility and better performance in scenarios that demand it 🚀.
+         */
         public ParamsCollections()
         {
-            Console.WriteLine(SumArray(new int[] { 1, 2, 3 }));
+            Console.WriteLine(SumArray([1, 2, 3]));
         }
 
         public int SumArray(int[] numbers)

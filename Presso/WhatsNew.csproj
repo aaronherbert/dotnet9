@@ -14,6 +14,6 @@
 		<PackageReference Include="BenchmarkDotNet" Version="0.14.0" />
 	</ItemGroup>
 	<ItemGroup>
-		<RuntimeHostConfigurationOption Include="myFeature" value="false" />
+		<RuntimeHostConfigurationOption Include="IsFeatureEnabled" value="false" />
 	</ItemGroup>
 </Project>
